@@ -1,5 +1,7 @@
 # Advanced Mathematical Algorithms and Implementations
 
+![backend mongo Logo](numeric.png)
+
 This project contains a collection of Python implementations for solving advanced mathematical problems. These implementations are part of a series of assignments focusing on topics such as interpolation, numerical integration, curve fitting, and root finding. The project demonstrates various mathematical techniques applied to complex functions, including noisy data handling, efficient algorithm design, and custom mathematical models.
 
 ## Overview
